@@ -1,6 +1,6 @@
 # Hi there, I'm Amal
 
-### Cybersecurity Engineer | Game Developer | AI Researcher
+### Cybersecurity Engineer | Game Developer | AI Engineer
 
 Computer Science graduate specialized in Cybersecurity and AI. I build secure systems and interactive experiences, with a deep focus on Windows Internals and Threat Detection.
 
@@ -19,7 +19,7 @@ Computer Science graduate specialized in Cybersecurity and AI. I build secure sy
 ### Key Projects
 
 * Sanad: Drone project for medical delivery using image processing.
-* Arabic-English Plate OCR: Optical Character Recognition system for vehicle license plates using Deep Learning / AI.
+* OCR: Optical Character Recognition system for vehicle license plates using Deep Learning / AI.
 * Candy Kingdom: 3D action-reflex game built with Unity & C#.
 
 ---
