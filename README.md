@@ -33,8 +33,13 @@ Computer Science graduate specialized in Cybersecurity and AI. I build secure sy
 
 ---
 
-###  Certifications
+### 🎓 Certifications
 * IBM AI-Powered Security Tools & Ethical Hacking Fundamentals 
 * IBM Cybersecurity Analyst
 * Cisco CyberOps
 * Google IT Support
+
+---
+
+### 📬 Connect with Me
+* Email: [amal.dev24@outlook.com](mailto:amal.dev24@outlook.com)
