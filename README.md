@@ -1,6 +1,6 @@
 # Hi there, I'm Amal
 
-### Cybersecurity Engineer | Game Developer | AI Engineer
+### Cybersecurity Engineer | Game Developer | AI Researcher
 
 Computer Science graduate specialized in Cybersecurity and AI. I build secure systems and interactive experiences, with a deep focus on Windows Internals and Threat Detection.
 
