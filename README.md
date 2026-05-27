@@ -1,12 +1,12 @@
-# Hi there, I'm Amal 👋
+# Hi there, I'm Amal
 
-### 🛡️ Cybersecurity Engineer | 🎮 Game Developer | 💻 AI Researcher
+### Cybersecurity Engineer | Game Developer | AI Researcher
 
 Computer Science graduate specialized in Cybersecurity and AI. I build secure systems and interactive experiences, with a deep focus on Windows Internals and Threat Detection.
 
 ---
 
-###  Technical Writeups & Expertise
+### Technical Writeups & Expertise
 
 * Languages: C++, Rust, C#/.NET 9.0, Python, Assembly (x86_64).
 * Reverse Engineering: IDA Pro, Ghidra, WinDbg, Binary Ninja, Frida.
@@ -16,15 +16,15 @@ Computer Science graduate specialized in Cybersecurity and AI. I build secure sy
 
 ---
 
-###  Key Projects
+### Key Projects
 
 * Sanad: Drone project for medical delivery using image processing.
-* OCR: Optical Character Recognition system for vehicle license plates using Deep Learning / AI.
+* Arabic-English Plate OCR: Optical Character Recognition system for vehicle license plates using Deep Learning / AI.
 * Candy Kingdom: 3D action-reflex game built with Unity & C#.
 
 ---
 
-###  Tools & Technologies
+### Tools & Technologies
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,13 +33,13 @@ Computer Science graduate specialized in Cybersecurity and AI. I build secure sy
 
 ---
 
-### 🎓 Certifications
-* IBM AI-Powered Security Tools & Ethical Hacking Fundamentals 
-* IBM Cybersecurity Analyst
-* Cisco CyberOps
-* Google IT Support
+### Certifications
+* IBM AI-Powered Security Tools & Ethical Hacking Fundamentals
+* IBM Cybersecurity Analyst Professional Certificate
+* Cisco Certified CyberOps Associate
+* Google IT Support Professional Certificate
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 * Email: [amal.dev24@outlook.com](mailto:amal.dev24@outlook.com)
