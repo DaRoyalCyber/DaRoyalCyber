@@ -18,7 +18,7 @@ Computer Science graduate specialized in Cybersecurity and AI. I build secure sy
 
 ### Key Projects
 
-* Sanad: Drone project for medical delivery using image processing.
+* Sanad: AI-Powered Medical Delivery Drone Using Computer Vision
 * OCR: Optical Character Recognition system for vehicle license plates using Deep Learning / AI.
 * Candy Kingdom: 3D action-reflex game built with Unity & C#.
 
