@@ -47,4 +47,4 @@ Computer Science graduate specialized in Cybersecurity and AI. I build secure sy
 ---
 
 ### Connect with Me
-* [**Email**](mailto:amal.dev24@outlook.com)
+* [**Email**](mailto:amalcodes@outlook.com)
