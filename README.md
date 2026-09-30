@@ -45,4 +45,4 @@ Computer Science graduate specialized in Cybersecurity and AI. I build secure sy
 
 ## Contact
 
-📬 **Email:** [Hex.dev.1@outlook.com](mailto:Hex.dev.1@outlook.com)
+- [EMAIL](mailto:Hex.dev.1@outlook.com)
