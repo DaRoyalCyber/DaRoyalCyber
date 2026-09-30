@@ -43,3 +43,6 @@ Computer Science graduate specialized in Cybersecurity and AI. I build secure sy
 * Cisco Certified CyberOps Associate
 * Google IT Support Professional Certificate
 
+## Contact
+
+📬 **Email:** [Hex.dev.1@outlook.com](mailto:Hex.dev.1@outlook.com)
