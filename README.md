@@ -43,7 +43,3 @@ Computer Science graduate specialized in Cybersecurity and AI. I build secure sy
 * Cisco Certified CyberOps Associate
 * Google IT Support Professional Certificate
 
----
-
-### Connect with Me
-* [**Email**](mailto:amalcodes@outlook.com)
