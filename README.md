@@ -1,5 +1,4 @@
-# Hi there, I'm Amal
-
+# Hi there, welcome to my digital space.
 ### Cybersecurity Engineer | Game Developer (Unity & Roblox) | AI Researcher
 
 Computer Science graduate specialized in Cybersecurity and AI. I build secure systems and interactive experiences, with a deep focus on Windows Internals and Threat Detection.
